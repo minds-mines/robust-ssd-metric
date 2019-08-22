@@ -1,4 +1,4 @@
-# robust-distance-metric
+# robust-ssd-metric
 
 Code for the robust sample specific distance described in Learning Robust Multi-label Sample Specific Distances for Identifying HIV-1 Drug Resistance.
 
